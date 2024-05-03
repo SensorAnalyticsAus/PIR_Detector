@@ -2,7 +2,7 @@
 
 ###############################################################################
 #         HC-SR501 PIR MOTION DETECTOR Sensor Code for RaspbberryPi 
-#                       ©Sensor Analytics Australia 2024
+#                      Sensor Analytics™ Australia 2024
 ############################################################################### 
 
 Mute = 0     # 0 - mute, 1 - enable pushover.net sound alert and alarm 
