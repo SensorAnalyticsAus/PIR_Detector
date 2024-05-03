@@ -15,3 +15,6 @@ Python code for HC-SR501 PIR Motion Detector
 ## Run
 `cd` to that folder<br>
 ```./ctrl-pir start```
+
+## Good Ideas
+Adding `ctrl-pir start` to start on boot to crontab. For extra cautious, `ctrl-pir restart` once a day at some off peak hour.
