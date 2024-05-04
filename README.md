@@ -24,3 +24,6 @@ Install `screen`. Install missing python packages used by `pir.py`.
 
 ## Good Ideas
 Adding `ctrl-pir start` to start on boot to crontab. For extra cautious, `ctrl-pir restart` once a day at some off peak hour.
+
+## Phone Alerts and Notifications
+Register with [pushover.net](pushover.net). Then add your app and user tokens in `pir.py` and set `Mute = 1`. Now phone will sound and display notifications.
