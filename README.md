@@ -10,11 +10,14 @@ Python code for HC-SR501 PIR Motion Detector
 [https://www.sensoranalytics.com.au/image/shared/WiringDiag.png](https://www.sensoranalytics.com.au/image/shared/WiringDiag.png)
 
 ## Install
-* Copy `ctrl-pir`, `driver-pir.py`, and `pir.py` files to a folder
+* Copy `ctrl-pir`, `driver-pir.py`, and `pir.py` files to `~/src/pir`
 
 ## Run
-`cd` to that folder<br>
+`cd ~/src/pir` <br>
 ```./ctrl-pir start```
+
+## View Alerts
+`screen -r pir`
 
 ## Good Ideas
 Adding `ctrl-pir start` to start on boot to crontab. For extra cautious, `ctrl-pir restart` once a day at some off peak hour.

@@ -56,7 +56,7 @@ while True:
         if knt == TolAlarm: 
             msg=now+' Intruder Alarm Check Cameras!'
             print(msg)
-            if Mute == 1: po(msg,'alarm')
+            if Mute == 1: po(msg,'siren')
         time.sleep(0.1)
     else: knt=0 # reset counter
     time.sleep(.5)
