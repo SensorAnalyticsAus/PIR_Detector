@@ -7,7 +7,7 @@ Python code for HC-SR501 PIR Motion Detector
 * 3 x Dupont jumpers F-F
 
 ## Wiring Diagram
-[https://www.sensoranalytics.com.au/image/shared/WiringDiag.png](https://www.sensoranalytics.com.au/image/shared/WiringDiag.png)
+[https://www.sensoranalytics.com.au/image/shared/WiringDiag.png](https://github.com/SensorAnalyticsAus/PIR_Detector/blob/main/WiringDiag.png)
 
 ## Install
 * Copy `ctrl-pir`, `driver-pir.py`, and `pir.py` files to `~/src/pir`
