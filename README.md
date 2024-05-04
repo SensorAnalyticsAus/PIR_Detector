@@ -19,5 +19,8 @@ Python code for HC-SR501 PIR Motion Detector
 ## View Alerts
 `screen -r pir`
 
+## Issues
+Install `screen`. Install missing python packages used by `pir.py`.
+
 ## Good Ideas
 Adding `ctrl-pir start` to start on boot to crontab. For extra cautious, `ctrl-pir restart` once a day at some off peak hour.
