@@ -12,7 +12,7 @@ po_user='insert your pushover user key here'    # optional
 TolAlert = 3 # three successive md events
 TolAlarm = 7 # seven successive md events
 pin = 40     #physical pin 40 (not gpio no etc) connected to pir's signal wire
-LOGFILE = '/mnt/32G/log/PIR.log' # change this to your preferred location
+LOGFILE = '/mnt/32G/log/PIR.log' # change to your preferred location
 
 import RPi.GPIO as GPIO
 import time
