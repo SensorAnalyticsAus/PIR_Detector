@@ -13,7 +13,7 @@ To start with, both sensitivity and time delay potentiometers should be kept to 
 [https://www.sensoranalytics.com.au/image/shared/WiringDiag.png](https://github.com/SensorAnalyticsAus/PIR_Detector/blob/main/WiringDiag.png)
 
 ## Install
-* Copy `ctrl-pir`, `driver-pir.py`, and `pir.py` files to `~/src/pir`. Edit 
+* Copy `ctrl-pir`, `driver-pir.py`, and `pir.py` files to `~/src/pir`. Set `LOGFILE` to actual path in `pir.py`.
 
 ## Run
 `cd ~/src/pir` <br>
