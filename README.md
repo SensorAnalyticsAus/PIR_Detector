@@ -6,6 +6,9 @@ Python code for HC-SR501 PIR Motion Detector
 * RaspberryPi
 * 3 x Dupont jumpers F-F
 
+## Board Settings
+To start with, both sensitivity and time delay potentiometers should be kept to the minimum i.e. both turned CCW to 0700 hour position. Trigger jumper should be set to `H` position.
+
 ## Wiring Diagram
 [https://www.sensoranalytics.com.au/image/shared/WiringDiag.png](https://github.com/SensorAnalyticsAus/PIR_Detector/blob/main/WiringDiag.png)
 
