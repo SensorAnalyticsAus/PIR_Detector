@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 ###############################################################################
-#         HC-SR501 PIR MOTION DETECTOR Sensor Code for RaspbberryPi 
+#         HC-SR501 PIR MOTION DETECTOR Sensor Code for RaspberryPi 
 #                       ©Sensor Analytics Australia 2024
 ############################################################################### 
 
